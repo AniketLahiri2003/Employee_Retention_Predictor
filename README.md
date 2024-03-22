@@ -30,7 +30,7 @@ To explore this project, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/predicting-employee-retention.git
+   git clone https://github.com/AniketLahiri2003/predicting-employee-retention.git
    ```
 
 2. Navigate to the project directory:
